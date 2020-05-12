@@ -1,0 +1,13 @@
+fourier.csv
+Frequency / kHz, Channel A / dBu, Channel B / dBu
+
+atten.csv
+Relative Distance / cm, Error / cm, Amplitude PP / mV, Amplitude Error / mV
+Freq: 1515 +- 1 Hz
+
+vel.csv
+Relative Distance / cm, Error / cm, Phase Shift / degrees, Phase Error / deg
+Freq: 1515 +- 1 Hz
+
+datasweep.csv
+Time / s, N, Va / V, Vb / V, Freq A / Hz, Freq B / Hz, Phase A - B / deg, Voltage Input / V
